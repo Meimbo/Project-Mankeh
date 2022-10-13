@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/media/makoo/miembo1/Projects/Project Mankeh/Mankeh Backend/.venv/bin/python" "$0" "$@"
+'''exec' "/media/makoo/miembo1/Projects/Project Mankeh/Mankeh Backend/.venv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
